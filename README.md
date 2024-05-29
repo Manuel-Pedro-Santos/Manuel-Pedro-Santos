@@ -151,11 +151,8 @@ However, joining ISEL was a great opportunity because I got to know a new world,
 <br><br>
 
 <h1 align="left">📊 My Github Data:</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuel-pedro-santos&show_icons=true&locale=en&layout=compact" alt="manuel-pedro-santos" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuel-pedro-santos&show_icons=true&locale=en" alt="manuel-pedro-santos" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardooliveira-5&show_icons=true&locale=en&layout=compact" alt="ricardooliveira-5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardooliveira-5&show_icons=true&locale=en" alt="ricardooliveira-5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardooliveira-5&" alt="ricardooliveira-5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-pedro-santos&" alt="manuel-pedro-santos" /></p>
