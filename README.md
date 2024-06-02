@@ -14,7 +14,6 @@ However, joining ISEL was a great opportunity because I got to know a new world,
 <p>Discover more about me on social media! Connect, follow, and stay updated on the latest insights, projects, and tech tips. I'm active on Twitter and Instagram, where I share exclusive content, useful tips, and fun moments from my journey in learning and software development. Don't miss out! Follow me now:</p>
 
 <a href="https://twitter.com/@masterclassScp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@richyy_05" height="30" width="40" /></a>
-<a href="https://instagram.com/manuelsantos17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ricardo._5" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/manuel-santos-0467b1230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel santos" height="30" width="40" /></a>
 </p>
