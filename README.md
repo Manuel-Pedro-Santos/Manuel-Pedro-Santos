@@ -7,9 +7,9 @@
 - 👋 Hi there! Hi i’m Manuel Santos and i’m 21!
 I spent about 1 year at Universidade Lusíada de Lisboa taking the Business Management course and so I have some knowledge about the area, but I understood that this was not my vocation and so I decided to apply for other courses, actually Computer Science wasn't at the top of my list...
 However, joining ISEL was a great opportunity because I got to know a new world, which sometimes being more challenging, although i am very committed and ambitious in becoming the best in this field.
-<br />
+<br><br>
 - 📫 How to reach me: **manuelpsantos@outlook.pt**
-<br />
+<br><br>
 - My website 🧑‍💻: https://manuel-pedro-santos.github.io/
 <br><br>
 <br><br>
